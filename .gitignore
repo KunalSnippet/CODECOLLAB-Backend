@@ -1,0 +1,15 @@
+target/
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+.idea/
+*.iml
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
+logs.txt
+backend_resilience_log.txt
+frontend_final_log.txt
